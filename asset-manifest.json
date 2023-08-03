@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newsaven/static/css/main.abd64e84.css",
+    "main.js": "/newsaven/static/js/main.995232cc.js",
+    "static/js/787.c1328835.chunk.js": "/newsaven/static/js/787.c1328835.chunk.js",
+    "static/media/loading.gif": "/newsaven/static/media/loading.e32fd83ac82ef3f6ccca.gif",
+    "index.html": "/newsaven/index.html",
+    "main.abd64e84.css.map": "/newsaven/static/css/main.abd64e84.css.map",
+    "main.995232cc.js.map": "/newsaven/static/js/main.995232cc.js.map",
+    "787.c1328835.chunk.js.map": "/newsaven/static/js/787.c1328835.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.995232cc.js"
+  ]
+}
