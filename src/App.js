@@ -9,6 +9,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 const App = ()=> {
   const pageSize = 9;
   const apikey = process.env.REACT_APP_API
+  console.log(process.env.REACT_APP_API)
   const[progress, setProgress] = useState(0)
   
     return (
